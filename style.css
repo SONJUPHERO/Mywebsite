@@ -116,4 +116,48 @@ background-position: right top;
         flex:33.33%;
     }
 }
- 
+.center {
+    text-align: center;
+    color:black;
+  }
+  .choto{
+      text-align: center;
+  }
+  .aro-choto{
+      text-align: center;
+      color:wheat;
+  }
+.para{
+    text-align: center;
+}
+ .{
+     margin:0;
+     padding: 0;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     min-height: 100vh;
+     background:#060c21;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ .full-width{
+
+
+    width:40%;
+    float: left;
+    margin-left:30%;
+    padding-left: 3%;
+    background-position: bottom top 100% ;
+    border-radius: 0px;
+    background-color: deeppink;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+ }
+ .last-banner{
+    
+    background-image:url("images/footer-bg.png") ;
+ background-repeat: no-repeat;
+background-position: 100%;
+ }
